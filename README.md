@@ -25,6 +25,12 @@ An elegant and modern **Bitcoin**-themed landing page built with **HTML**, **CSS
 
 git clone https://github.com/your-username/elegant-bitcoin-site.git
 
+## 💻 Deploy
+
+**Netlify:**
+
+https://crypto-guilherme.netlify.app/
+
 
 ## 📌 Customization
 You can easily change the Bitcoin image, particle effects, colors, or animations by modifying the CSS and JavaScript files. All assets and scripts are organized and easy to edit.
