@@ -1,34 +1,29 @@
-# 💰 Site Crypto Bitcoin
+# 💰 Crypto Bitcoin Website
 
-Uma landing page elegante e moderna com o tema **Bitcoin**, desenvolvida com **HTML**, **CSS** e **JavaScript**. Este projeto apresenta animações avançadas, efeitos visuais impactantes e um design futurista que destaca a proposta do Bitcoin.
+An elegant and modern **Bitcoin**-themed landing page built with **HTML**, **CSS**, and **JavaScript**. This project showcases advanced animations, impactful visual effects, and a futuristic design that highlights the concept of Bitcoin.
 
-## ✨ Funcionalidades
+## ✨ Features
 
-- 🎨 **Design Moderno**: Layout limpo e estiloso com tema escuro e visual profissional.
-- 🌌 **Integração com Particles.js**: Efeitos de partículas animadas ao fundo, deixando o site dinâmico.
-- 🎞 **Animações com GSAP**: Transições suaves e efeitos de entrada usando a GreenSock Animation Platform.
-- 💫 **Efeito de Brilho Pulsante**: Um efeito de brilho que pulsa ao redor da imagem do Bitcoin.
-- 🪞 **Estilo 3D Realista**: Estilização 3D da imagem do Bitcoin, dando profundidade e impacto visual.
-- ⚡ **Design Responsivo**: Compatível com dispositivos móveis, tablets e desktops.
+- 🎨 **Modern Design**: Clean and stylish layout with a dark theme and professional look.
+- 🌌 **Particles.js Integration**: Animated background particles that make the site more dynamic.
+- 🎞 **GSAP Animations**: Smooth transitions and entrance animations using GreenSock Animation Platform.
+- 💫 **Pulsing Glow Effect**: A glowing effect that pulses around the Bitcoin image for emphasis.
+- 🪞 **Realistic 3D Styling**: 3D styling on the Bitcoin image adds depth and visual impact.
+- ⚡ **Responsive Design**: Fully responsive and compatible with desktops, tablets, and mobile devices.
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Technologies Used
 
-**- HTML5**
-
-**- CSS3**
-
-**- JavaScript (ES6+)**
-
-**- [Particles.js](https://vincentgarreau.com/particles.js/)**
-
+**- HTML5**  
+**- CSS3**  
+**- JavaScript (ES6+)**  
+**- [Particles.js](https://vincentgarreau.com/particles.js/)**  
 **- [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/)**
 
+## 🛠 How to Run Locally
 
-## 🛠 Como Rodar Localmente
+**Clone the repository:**
 
-**Clone o repositório:**
-
-   git clone https://github.com/seu-usuario/site-bitcoin-elegante.git
+git clone https://github.com/your-username/elegant-bitcoin-site.git
 
 
 ## 📌 Customization
